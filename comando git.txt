@@ -1,0 +1,7 @@
+https://github.com/jmanuel37/spring-boot-oracle-Mysql_FrontEnd.git
+subir al git
+git init
+git add .
+git commit -m"primer commit"
+git remote add origin https://github.com/jmanuel37/spring-boot-oracle-Mysql_FrontEnd.git
+git push origin master
